@@ -5,6 +5,7 @@ I'm a .NET developer passionate about building scalable applications and clean c
 ### 🔭 I'm currently working on
 - .NET projects and C# applications
 - Building robust backend systems
+- i like asp.net
 
 ### 🌱 I'm currently learning
 - Advanced .NET patterns and best practices
