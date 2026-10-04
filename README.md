@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**aheisleycook1992/aheisleycook1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a .NET developer passionate about building scalable applications and clean code.
 
-Here are some ideas to get you started:
+### 🔭 I'm currently working on
+- .NET projects and C# applications
+- Building robust backend systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm currently learning
+- Advanced .NET patterns and best practices
+- Cloud-native development with Azure
+
+### 👯 I'm looking to collaborate on
+- .NET/C# projects
+- Open-source initiatives in the .NET ecosystem
+
+### 🤔 I'm looking for help with
+- Optimizing application performance
+- Cloud architecture decisions
+
+### 💬 Ask me about
+- C# and .NET development
+- Software architecture
+- Best practices in backend development
+
+### 📫 How to reach me
+- GitHub: [@aheisleycook1992](https://github.com/aheisleycook1992)
+
+### 😄 Pronouns
+- He/Him
+
+### ⚡ Fun fact
+- I love building efficient solutions with .NET!
